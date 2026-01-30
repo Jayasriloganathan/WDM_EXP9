@@ -27,4 +27,11 @@ for this purpose.
 
 ### Output:
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/723c500c-b783-47de-ae87-c0ea897f76f3" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63f18253-e04a-4999-a1ea-ed5cc5c6c1ab" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1acd1225-b159-42b9-8930-ea3c2f797882" />
+
 ### Result:
