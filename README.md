@@ -35,3 +35,4 @@ for this purpose.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1acd1225-b159-42b9-8930-ea3c2f797882" />
 
 ### Result:
+Thus, the project for Twitter data Analysis on Any Dataset a Using Rapidminer is created and executed sucessfully.
